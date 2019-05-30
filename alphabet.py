@@ -4,4 +4,4 @@ n=n.lower()
 if n in s:
   print("alphabet")
 else:
-  print("not a alphabet")
+  print("no")
