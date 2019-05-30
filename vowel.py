@@ -4,3 +4,5 @@ if n in c:
   print("vowel")
 else:
   print("Consonant")
+else: 
+  print("Invalid")
