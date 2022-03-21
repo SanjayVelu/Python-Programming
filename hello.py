@@ -1,3 +1,1 @@
-n=int(input())
-for x in range(n):
-  print("Hello')
+print("Hello world")
